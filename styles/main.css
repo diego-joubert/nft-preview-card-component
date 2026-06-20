@@ -53,6 +53,10 @@ body {
 	margin: 0.75rem 0;
 }
 
+.card__heading:active {
+	color: var(--accent-green);
+}
+
 .card__description {
 	color: var(--text-dark);
 	font-size: 1.125rem;
@@ -107,4 +111,8 @@ hr {
 
 #author-name {
 	color: var(--text-light);
+}
+
+#author-name:active {
+	color: var(--accent-green);
 }
