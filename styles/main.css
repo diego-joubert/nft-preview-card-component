@@ -115,3 +115,15 @@ hr {
 #author-name:active {
 	color: var(--accent-green);
 }
+
+.attribution {
+	margin: 1rem 0;
+	color: var(--text-dark);
+	font-size: 1.125rem;
+	font-weight: 600;
+	text-align: center;
+}
+
+.attribution a {
+	color: #09f;
+}
