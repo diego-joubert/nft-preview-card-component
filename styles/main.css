@@ -1,0 +1,19 @@
+/* RESET */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* VARIABLES */
+
+:root {
+	--main-bg: hsl(217, 54%, 11%);
+	--card-bg: hsl(216, 50%, 16%);
+	--line-color: hsl(215, 32%, 27%);
+	--text-dark: hsl(215, 51%, 70%);
+	--text-light: hsl(0, 0%, 100%);
+	--accent-green: hsl(178, 100%, 50%);
+	--breakpoint-tablet: 640px;
+}
