@@ -15,7 +15,6 @@
 	--text-dark: hsl(215, 51%, 70%);
 	--text-light: hsl(0, 0%, 100%);
 	--accent-green: hsl(178, 100%, 50%);
-	--breakpoint-tablet: 640px;
 }
 
 /* BASE STYLES */
