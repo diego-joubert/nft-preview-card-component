@@ -17,3 +17,94 @@
 	--accent-green: hsl(178, 100%, 50%);
 	--breakpoint-tablet: 640px;
 }
+
+/* BASE STYLES */
+
+body {
+	font-family: Outfit, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: var(--main-bg);
+	padding: 1rem;
+}
+
+.card {
+	width: 90%;
+	max-width: 350px;
+	background-color: var(--card-bg);
+	border-radius: 1rem;
+	/* margin: 2rem auto; */
+	padding: 1.3rem;
+}
+
+.card__img {
+	width: 100%;
+	object-fit: cover;
+	border-radius: 0.5rem;
+}
+
+.card__heading {
+	color: var(--text-light);
+	font-size: 1.4rem;
+	font-weight: 600;
+	margin: 0.75rem 0;
+}
+
+.card__description {
+	color: var(--text-dark);
+	font-size: 1.125rem;
+	font-weight: 400;
+	margin: 1rem 0;
+}
+
+.card__stats {
+	display: flex;
+	justify-content: space-between;
+	margin: 1.5rem 0;
+}
+
+.card__stats img,
+p {
+	display: inline-block;
+	margin-right: 0.125rem;
+}
+
+#eth-balance {
+	color: var(--accent-green);
+	font-weight: 600;
+}
+
+#remaining-time {
+	color: var(--text-dark);
+	font-weight: 300;
+}
+
+hr {
+	color: var(--line-color);
+}
+
+.card__author {
+	display: flex;
+	margin: 0.5rem 0;
+	gap: 0.8rem;
+}
+
+.card__author-avatar {
+	width: 35px;
+	height: 35px;
+	border: 1px solid var(--text-light);
+	border-radius: 50%;
+}
+
+.card__author-description {
+	color: var(--text-dark);
+	font-weight: 400;
+	margin-top: 0.25rem;
+}
+
+#author-name {
+	color: var(--text-light);
+}
