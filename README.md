@@ -20,8 +20,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [https://github.com/diego-joubert/ntf-preview-card-component](https://github.com/diego-joubert/ntf-preview-card-component)
-- Live Site URL: [https://diego-joubert.github.io/ntf-preview-card-component](https://diego-joubert.github.io/ntf-preview-card-component)
+- Solution URL: [https://github.com/diego-joubert/nft-preview-card-component](https://github.com/diego-joubert/nft-preview-card-component)
+- Live Site URL: [https://diego-joubert.github.io/nft-preview-card-component](https://diego-joubert.github.io/nft-preview-card-component)
 
 ## My process
 
