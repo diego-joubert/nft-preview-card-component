@@ -1,6 +1,6 @@
- # Frontend Mentor - QR code component solution
+ # Frontend Mentor - NFT Preview Card Component 
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+This is my solution to the [NFT Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ## Table of contents
 
